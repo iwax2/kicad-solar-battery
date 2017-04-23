@@ -1,0 +1,1 @@
+# kicad-solar-battery
